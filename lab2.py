@@ -403,6 +403,7 @@ class Clustering():
 		pass
 
 
+	
 def main():
 	Clu = Clustering()
 	#Clu.test()
