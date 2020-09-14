@@ -1,11 +1,3 @@
-# ESE590
-# Honglei Liu
-
-# Weekly Lab
-# Weekly Lab 1 is in class Memory
-# Weekly Lab 2 is in class Clustering
-# Data set chosen: Abalone
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
